@@ -1,0 +1,1 @@
+var requestURL = 'https://raw.githubusercontent.com/Giordano1901/FirstRepository/main/status_cache.json?token=GHSAT0AAAAAABS4NYX65JHULPBIL7AB2WCOYSHKVMA';

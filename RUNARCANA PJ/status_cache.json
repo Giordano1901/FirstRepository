@@ -1,0 +1,42 @@
+{
+    "name": "Jogadores",
+    "active": true,
+    "characters": [
+        {
+            "nome": "Flierin",
+        
+            "Max_hp": "18",
+            "Actual_hp":"7",
+
+            "Max_ep": "3",
+            "Actual_ep":"1"
+        },
+
+        {
+            "nome": "Yisaac",
+        
+            "Max_hp": "21",
+            "Actual_hp":"20"
+        },
+
+        {
+            "nome": "",
+        
+            "Max_hp": "21",
+            "Actual_hp":"20",
+
+            "Max_mp":  "0",
+            "Actual_mp":"0"
+        },
+
+        {
+            "nome": "",
+        
+            "Max_hp": "21",
+            "Actual_hp":"20",
+
+            "Max_mp":  "0",
+            "Actual_mp":"0"
+        }
+    ]
+}
